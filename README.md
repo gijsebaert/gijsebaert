@@ -1,9 +1,14 @@
 ### Hi there 👋
 
+My name is Gilles, I am a 21 year old Computer Science student.
+
 ![](https://github-readme-stats.vercel.app/api?username=gijsebaert&count_private=true&show_icons=true&theme=codeSTACKr)
 
 
 <!-- Footer -->
+</br>
+
+_________________
 
 <a href="https://www.linkedin.com/in/gijsebaert/">
   <img align="left" alt="Gilles' LinkedIn" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" />
@@ -17,16 +22,19 @@
 <a href="https://www.instagram.com/gijsebaert/">
   <img align="left" alt="Gilles' Instagram" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg" />
 </a>
-<a href="https://yseb.be/">
+<!-- <a href="https://yseb.be/">
   <img align="left" alt="Gilles' Website" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/HTML5.svg" />
-</a>
+</a> -->
 <a href="mailto:info@gillesijsebaert.be">
   <img align="left" alt="Gilles' Mailaddress" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" />
 </a>
 
 
-
 ![](https://visitor-badge.glitch.me/badge?page_id=gijsebaert.gijsebaert&left_color=blue&right_color=blue)
+
+*https://yseb.be/*  <br> 
+*https://gillesijsebaert.be/ (Photography)* 
+
 
 <!--
 **gijsebaert/gijsebaert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
