@@ -32,7 +32,7 @@ _________________
 
 ![](https://visitor-badge.glitch.me/badge?page_id=gijsebaert.gijsebaert&left_color=blue&right_color=blue)
 
-*https://yseb.be/*  <br> 
+*https://cv.yseb.be/*  <br> 
 *https://gillesijsebaert.be/ (Photography)* 
 
 
