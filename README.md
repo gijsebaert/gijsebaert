@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Gilles, I am a 21 year old Computer Science student.
+My name is Gilles, I am a 22 year old Computer Science student.
 
 ![](https://github-readme-stats.vercel.app/api?username=gijsebaert&count_private=true&show_icons=true&theme=codeSTACKr)
 
